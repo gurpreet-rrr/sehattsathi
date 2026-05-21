@@ -1,0 +1,46 @@
+﻿# Android Studio defaults
+*.iml
+.gradle/
+local.properties
+
+# IDE configuration (user-specific)
+/.idea/
+.idea/
+
+# Kotlin / Build artifacts
+.kotlin/
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# App-level build folders
+/app/build/
+**/build/
+
+# Built artifacts (never commit)
+*.apk
+*.aab
+*.dex
+*.class
+
+# Signing keys (NEVER push - security)
+*.jks
+*.keystore
+keystore.properties
+
+# JVM crash & replay logs
+hs_err_pid*.log
+replay_pid*.log
+
+# All logs
+*.log
+
+# Zipped project backups
+*.zip
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
