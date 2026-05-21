@@ -146,7 +146,22 @@ app/src/main/java/com/example/sehattsathi/
 
 ## 📸 Screenshots
 
-> _Add screenshots once you take them — replace these placeholders with images in a `screenshots/` folder._
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 17 PM" src="https://github.com/user-attachments/assets/d15ed7ae-688a-4b83-8f78-c186a124fb89" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 27 PM" src="https://github.com/user-attachments/assets/aed3741e-2830-44f0-8b33-d8b17430be6e" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 27 PM (2)" src="https://github.com/user-attachments/assets/7c947ffe-e2a6-4130-8de3-df56193579e6" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 27 PM (1)" src="https://github.com/user-attachments/assets/63729e72-640f-44c1-bfda-e5dd08e6ce6e" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 26 PM" src="https://github.com/user-attachments/assets/75d4ecd2-3d1f-4fdb-8d4f-be6b5c30e673" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 26 PM (1)" src="https://github.com/user-attachments/assets/c175cd38-ed74-4879-bffe-738a1f8c1f72" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 25 PM" src="https://github.com/user-attachments/assets/6ad43355-2883-4e44-89a0-a0472bbfc6c4" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 25 PM (1)" src="https://github.com/user-attachments/assets/7e699ba4-6368-418d-a393-8b4a98df8bf3" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 24 PM" src="https://github.com/user-attachments/assets/ca4c9e5f-0a78-4a9d-b463-646fd2e82f67" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 24 PM (2)" src="https://github.com/user-attachments/assets/d40f0fe9-0cf2-4ab3-8b96-5fe77b4b1fb5" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 24 PM (1)" src="https://github.com/user-attachments/assets/4c597692-a26b-426f-b4cd-70b1a0f4ee88" /><img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 21 PM" src="https://github.com/user-attachments/assets/ffe94aa2-2f9b-420c-9f59-b85c61a7a258" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 21 PM (1)" src="https://github.com/user-attachments/assets/2069e198-5025-4ee2-9812-2697fa1e34a0" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 19 PM" src="https://github.com/user-attachments/assets/16f0e336-ecba-41b5-b1d9-c2852132e6b6" />
+<img width="717" height="1600" alt="WhatsApp Image 2026-05-21 at 11 39 17 PM" src="https://github.com/user-attachments/assets/904c1ba1-ff62-4ec9-b2aa-315a9e3875fc" />
+
+
 
 | Login | Home | Chatbot |
 |---|---|---|
